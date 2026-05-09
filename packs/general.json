@@ -1,0 +1,18 @@
+{
+  "id": "general",
+  "version": 1,
+  "questions": [
+    {"text": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter"], "correctIndex": 1},
+    {"text": "How many sides does a hexagon have?", "options": ["Five", "Six", "Seven"], "correctIndex": 1},
+    {"text": "What is the capital of Australia?", "options": ["Sydney", "Melbourne", "Canberra"], "correctIndex": 2},
+    {"text": "What is the largest ocean on Earth?", "options": ["Atlantic", "Indian", "Pacific"], "correctIndex": 2},
+    {"text": "How many colors are in a rainbow?", "options": ["Six", "Seven", "Eight"], "correctIndex": 1},
+    {"text": "What language has the most native speakers?", "options": ["English", "Mandarin Chinese", "Spanish"], "correctIndex": 1},
+    {"text": "Which country invented pizza?", "options": ["France", "Italy", "Greece"], "correctIndex": 1},
+    {"text": "What is the tallest mountain on Earth?", "options": ["K2", "Kilimanjaro", "Mount Everest"], "correctIndex": 2},
+    {"text": "How many bones are in the adult human body?", "options": ["196", "206", "216"], "correctIndex": 1},
+    {"text": "Which animal is the fastest on land?", "options": ["Lion", "Horse", "Cheetah"], "correctIndex": 2},
+    {"text": "What gas do plants absorb from the air?", "options": ["Oxygen", "Nitrogen", "Carbon dioxide"], "correctIndex": 2},
+    {"text": "How many continents are there?", "options": ["Five", "Six", "Seven"], "correctIndex": 2}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "science",
+  "version": 1,
+  "questions": [
+    {"text": "What is the chemical symbol for gold?", "options": ["Go", "Gd", "Au"], "correctIndex": 2},
+    {"text": "How many chromosomes do humans typically have?", "options": ["23", "46", "92"], "correctIndex": 1},
+    {"text": "What force keeps planets in orbit around the sun?", "options": ["Magnetism", "Gravity", "Friction"], "correctIndex": 1},
+    {"text": "What is the speed of light in a vacuum?", "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s"], "correctIndex": 0},
+    {"text": "Which element has the atomic number 1?", "options": ["Helium", "Hydrogen", "Lithium"], "correctIndex": 1},
+    {"text": "What is the powerhouse of the cell?", "options": ["Nucleus", "Ribosome", "Mitochondria"], "correctIndex": 2},
+    {"text": "What is H2O commonly known as?", "options": ["Salt", "Water", "Hydrogen peroxide"], "correctIndex": 1},
+    {"text": "Which planet has the most moons?", "options": ["Jupiter", "Saturn", "Uranus"], "correctIndex": 1},
+    {"text": "What type of energy does the sun primarily emit?", "options": ["Nuclear", "Solar", "Thermal"], "correctIndex": 0},
+    {"text": "What is the boiling point of water in Celsius?", "options": ["90", "100", "110"], "correctIndex": 1},
+    {"text": "Which scientist developed the theory of relativity?", "options": ["Newton", "Einstein", "Hawking"], "correctIndex": 1},
+    {"text": "What is the most abundant gas in Earth's atmosphere?", "options": ["Oxygen", "Carbon dioxide", "Nitrogen"], "correctIndex": 2}
+  ]
+}

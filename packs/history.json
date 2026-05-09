@@ -1,0 +1,18 @@
+{
+  "id": "history",
+  "version": 1,
+  "questions": [
+    {"text": "In which year did World War Two end?", "options": ["1943", "1945", "1947"], "correctIndex": 1},
+    {"text": "Who was the first president of the United States?", "options": ["John Adams", "Thomas Jefferson", "George Washington"], "correctIndex": 2},
+    {"text": "Which ancient wonder was located in Alexandria, Egypt?", "options": ["The Colossus", "The Lighthouse", "The Hanging Gardens"], "correctIndex": 1},
+    {"text": "In which year did man first land on the Moon?", "options": ["1967", "1969", "1971"], "correctIndex": 1},
+    {"text": "Who painted the Mona Lisa?", "options": ["Michelangelo", "Raphael", "Leonardo da Vinci"], "correctIndex": 2},
+    {"text": "Which empire was ruled by Julius Caesar?", "options": ["Greek", "Ottoman", "Roman"], "correctIndex": 2},
+    {"text": "What year did the Berlin Wall fall?", "options": ["1987", "1989", "1991"], "correctIndex": 1},
+    {"text": "Who was the first woman to win a Nobel Prize?", "options": ["Rosalind Franklin", "Marie Curie", "Dorothy Hodgkin"], "correctIndex": 1},
+    {"text": "Which ship sank on its maiden voyage in 1912?", "options": ["The Lusitania", "The Olympic", "The Titanic"], "correctIndex": 2},
+    {"text": "In which country did the Renaissance begin?", "options": ["France", "Spain", "Italy"], "correctIndex": 2},
+    {"text": "What year did the French Revolution begin?", "options": ["1776", "1789", "1802"], "correctIndex": 1},
+    {"text": "Who wrote the Declaration of Independence?", "options": ["Benjamin Franklin", "John Adams", "Thomas Jefferson"], "correctIndex": 2}
+  ]
+}

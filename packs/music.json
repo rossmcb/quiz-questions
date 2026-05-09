@@ -1,0 +1,18 @@
+{
+  "id": "music",
+  "version": 1,
+  "questions": [
+    {"text": "How many strings does a standard guitar have?", "options": ["4", "5", "6"], "correctIndex": 2},
+    {"text": "Which band performed the song 'Bohemian Rhapsody'?", "options": ["The Beatles", "Queen", "Led Zeppelin"], "correctIndex": 1},
+    {"text": "What is the highest female singing voice called?", "options": ["Alto", "Mezzo-soprano", "Soprano"], "correctIndex": 2},
+    {"text": "Who is known as the King of Pop?", "options": ["Elvis Presley", "Michael Jackson", "Prince"], "correctIndex": 1},
+    {"text": "How many keys does a standard piano have?", "options": ["76", "82", "88"], "correctIndex": 2},
+    {"text": "Which country does reggae music originate from?", "options": ["Cuba", "Haiti", "Jamaica"], "correctIndex": 2},
+    {"text": "Who composed the Four Seasons?", "options": ["Bach", "Mozart", "Vivaldi"], "correctIndex": 2},
+    {"text": "Which singer is known as the Queen of Soul?", "options": ["Whitney Houston", "Aretha Franklin", "Diana Ross"], "correctIndex": 1},
+    {"text": "What does BPM stand for in music?", "options": ["Bass Per Measure", "Beats Per Minute", "Bars Per Movement"], "correctIndex": 1},
+    {"text": "Which instrument does a drummer play?", "options": ["Percussion", "Wind", "String"], "correctIndex": 0},
+    {"text": "What musical term means to play softly?", "options": ["Forte", "Piano", "Allegro"], "correctIndex": 1},
+    {"text": "Which band released the album 'Abbey Road'?", "options": ["The Rolling Stones", "The Who", "The Beatles"], "correctIndex": 2}
+  ]
+}

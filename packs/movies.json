@@ -1,0 +1,18 @@
+{
+  "id": "movies",
+  "version": 1,
+  "questions": [
+    {"text": "Which film features the line 'I'll be back'?", "options": ["RoboCop", "The Terminator", "Die Hard"], "correctIndex": 1},
+    {"text": "Who directed Jurassic Park?", "options": ["James Cameron", "Steven Spielberg", "George Lucas"], "correctIndex": 1},
+    {"text": "In which year was the first Star Wars film released?", "options": ["1975", "1977", "1979"], "correctIndex": 1},
+    {"text": "What is the highest-grossing film of all time?", "options": ["Avengers: Endgame", "Avatar", "Titanic"], "correctIndex": 1},
+    {"text": "Who plays Iron Man in the Marvel Cinematic Universe?", "options": ["Chris Evans", "Mark Ruffalo", "Robert Downey Jr."], "correctIndex": 2},
+    {"text": "Which studio produced The Lion King in 1994?", "options": ["Pixar", "DreamWorks", "Disney"], "correctIndex": 2},
+    {"text": "What animated film features the song 'Let It Go'?", "options": ["Moana", "Frozen", "Tangled"], "correctIndex": 1},
+    {"text": "Which actor played Forrest Gump?", "options": ["Tom Cruise", "Tom Hanks", "Kevin Costner"], "correctIndex": 1},
+    {"text": "In Titanic, what is the name of the ship's captain?", "options": ["Captain Smith", "Captain Jones", "Captain White"], "correctIndex": 0},
+    {"text": "Which film won the first Academy Award for Best Picture?", "options": ["Wings", "Sunrise", "The Jazz Singer"], "correctIndex": 0},
+    {"text": "Who voices Woody in the Toy Story franchise?", "options": ["Tim Allen", "Tom Hanks", "Bill Murray"], "correctIndex": 1},
+    {"text": "In which city is La La Land primarily set?", "options": ["New York", "Chicago", "Los Angeles"], "correctIndex": 2}
+  ]
+}

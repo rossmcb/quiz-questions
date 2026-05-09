@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "general",
+      "name": "General Knowledge",
+      "productID": null,
+      "questionCount": 12,
+      "packVersion": 1,
+      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/general.json"
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "productID": null,
+      "questionCount": 12,
+      "packVersion": 1,
+      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/movies.json"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "productID": null,
+      "questionCount": 12,
+      "packVersion": 1,
+      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/sports.json"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "productID": "com.example.CarPlayQuiz.pack.science",
+      "questionCount": 12,
+      "packVersion": 1,
+      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/science.json"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "productID": "com.example.CarPlayQuiz.pack.history",
+      "questionCount": 12,
+      "packVersion": 1,
+      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/history.json"
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "productID": "com.example.CarPlayQuiz.pack.music",
+      "questionCount": 12,
+      "packVersion": 1,
+      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/music.json"
+    }
+  ]
+}
