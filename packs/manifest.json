@@ -5,48 +5,48 @@
       "id": "general",
       "name": "General Knowledge",
       "productID": null,
-      "questionCount": 12,
-      "packVersion": 1,
+      "questionCount": 50,
+      "packVersion": 2,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/general.json"
     },
     {
       "id": "movies",
       "name": "Movies",
       "productID": null,
-      "questionCount": 12,
-      "packVersion": 1,
+      "questionCount": 50,
+      "packVersion": 2,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/movies.json"
     },
     {
       "id": "sports",
       "name": "Sports",
       "productID": null,
-      "questionCount": 12,
-      "packVersion": 1,
+      "questionCount": 50,
+      "packVersion": 2,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/sports.json"
     },
     {
       "id": "science",
       "name": "Science",
       "productID": "com.rmcb.VoiceQuiz.pack.science",
-      "questionCount": 12,
-      "packVersion": 1,
+      "questionCount": 50,
+      "packVersion": 2,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/science.json"
     },
     {
       "id": "history",
       "name": "History",
       "productID": "com.rmcb.VoiceQuiz.pack.history",
-      "questionCount": 12,
-      "packVersion": 1,
+      "questionCount": 50,
+      "packVersion": 2,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/history.json"
     },
     {
       "id": "music",
       "name": "Music",
       "productID": "com.rmcb.VoiceQuiz.pack.music",
-      "questionCount": 12,
-      "packVersion": 1,
+      "questionCount": 50,
+      "packVersion": 2,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/music.json"
     }
   ]
