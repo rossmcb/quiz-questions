@@ -7,7 +7,7 @@
       "productID": null,
       "questionCount": 12,
       "packVersion": 1,
-      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/general.json"
+      "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/general.json"
     },
     {
       "id": "movies",
@@ -15,7 +15,7 @@
       "productID": null,
       "questionCount": 12,
       "packVersion": 1,
-      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/movies.json"
+      "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/movies.json"
     },
     {
       "id": "sports",
@@ -23,31 +23,31 @@
       "productID": null,
       "questionCount": 12,
       "packVersion": 1,
-      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/sports.json"
+      "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/sports.json"
     },
     {
       "id": "science",
       "name": "Science",
-      "productID": "com.example.CarPlayQuiz.pack.science",
+      "productID": "com.example.VoiceQuiz.pack.science",
       "questionCount": 12,
       "packVersion": 1,
-      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/science.json"
+      "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/science.json"
     },
     {
       "id": "history",
       "name": "History",
-      "productID": "com.example.CarPlayQuiz.pack.history",
+      "productID": "com.example.VoiceQuiz.pack.history",
       "questionCount": 12,
       "packVersion": 1,
-      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/history.json"
+      "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/history.json"
     },
     {
       "id": "music",
       "name": "Music",
-      "productID": "com.example.CarPlayQuiz.pack.music",
+      "productID": "com.example.VoiceQuiz.pack.music",
       "questionCount": 12,
       "packVersion": 1,
-      "url": "https://raw.githubusercontent.com/rossmcb/CarPlay-Quiz/main/packs/music.json"
+      "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/music.json"
     }
   ]
 }
