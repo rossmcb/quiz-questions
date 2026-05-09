@@ -28,7 +28,7 @@
     {
       "id": "science",
       "name": "Science",
-      "productID": "com.example.VoiceQuiz.pack.science",
+      "productID": "com.rmcb.VoiceQuiz.pack.science",
       "questionCount": 12,
       "packVersion": 1,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/science.json"
@@ -36,7 +36,7 @@
     {
       "id": "history",
       "name": "History",
-      "productID": "com.example.VoiceQuiz.pack.history",
+      "productID": "com.rmcb.VoiceQuiz.pack.history",
       "questionCount": 12,
       "packVersion": 1,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/history.json"
@@ -44,7 +44,7 @@
     {
       "id": "music",
       "name": "Music",
-      "productID": "com.example.VoiceQuiz.pack.music",
+      "productID": "com.rmcb.VoiceQuiz.pack.music",
       "questionCount": 12,
       "packVersion": 1,
       "url": "https://raw.githubusercontent.com/rossmcb/quiz-questions/refs/heads/main/packs/music.json"
